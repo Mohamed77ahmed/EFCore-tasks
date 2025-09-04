@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\assignment1\\assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|solutionrelative:assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\assignment1\\assignment1\\data\\itidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|solutionrelative:assignment1\\data\\itidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\assignment1\\assignment1\\data\\configurations\\course_instconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|solutionrelative:assignment1\\data\\configurations\\course_instconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\assignment1\\assignment1\\data\\migrations\\20250904143906_createtablesv01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|solutionrelative:assignment1\\data\\migrations\\20250904143906_createtablesv01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\assignment1\\assignment1\\data\\configurations\\stud_courseconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|solutionrelative:assignment1\\data\\configurations\\stud_courseconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\assignment1\\assignment1\\data\\models\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|solutionrelative:assignment1\\data\\models\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\assignment1\\assignment1\\data\\models\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|solutionrelative:assignment1\\data\\models\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\assignment1\\assignment1\\data\\configurations\\courseconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|solutionrelative:assignment1\\data\\configurations\\courseconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\assignment1\\assignment1\\data\\configurations\\topicconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|solutionrelative:assignment1\\data\\configurations\\topicconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\assignment1\\assignment1\\data\\configurations\\studentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|solutionrelative:assignment1\\data\\configurations\\studentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\assignment1\\assignment1\\data\\configurations\\departmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|solutionrelative:assignment1\\data\\configurations\\departmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\assignment1\\assignment1\\data\\configurations\\instructorconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|solutionrelative:assignment1\\data\\configurations\\instructorconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\assignment1\\assignment1\\data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|solutionrelative:assignment1\\data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\assignment1\\assignment1\\data\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|solutionrelative:assignment1\\data\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\assignment1\\assignment1\\data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|solutionrelative:assignment1\\data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|c:\\users\\mohamed\\onedrive\\documents\\efcore\\assignment1\\assignment1\\data\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171929FD-6AB2-41C5-8ADC-C258553D38A2}|assignment1\\assignment1.csproj|solutionrelative:assignment1\\data\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250904143906_CreateTablesv01.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\migrations\\20250904143906_CreateTablesv01.cs",
+              "RelativeDocumentMoniker": "assignment1\\Data\\migrations\\20250904143906_CreateTablesv01.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\migrations\\20250904143906_CreateTablesv01.cs",
+              "RelativeToolTip": "assignment1\\Data\\migrations\\20250904143906_CreateTablesv01.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T14:39:07.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stud_Course.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Models\\Stud_Course.cs",
+              "RelativeDocumentMoniker": "assignment1\\Data\\Models\\Stud_Course.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Models\\Stud_Course.cs",
+              "RelativeToolTip": "assignment1\\Data\\Models\\Stud_Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T14:36:20.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course_InstConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Configurations\\Course_InstConfigurations.cs",
+              "RelativeDocumentMoniker": "assignment1\\Data\\Configurations\\Course_InstConfigurations.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Configurations\\Course_InstConfigurations.cs",
+              "RelativeToolTip": "assignment1\\Data\\Configurations\\Course_InstConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T14:04:33.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TopicConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Configurations\\TopicConfigurations.cs",
+              "RelativeDocumentMoniker": "assignment1\\Data\\Configurations\\TopicConfigurations.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Configurations\\TopicConfigurations.cs",
+              "RelativeToolTip": "assignment1\\Data\\Configurations\\TopicConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T14:03:03.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\ITIDbContext.cs",
+              "RelativeDocumentMoniker": "assignment1\\Data\\ITIDbContext.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\ITIDbContext.cs",
+              "RelativeToolTip": "assignment1\\Data\\ITIDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:17:35.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course_Inst.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Models\\Course_Inst.cs",
+              "RelativeDocumentMoniker": "assignment1\\Data\\Models\\Course_Inst.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Models\\Course_Inst.cs",
+              "RelativeToolTip": "assignment1\\Data\\Models\\Course_Inst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:24:19.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Program.cs",
+              "RelativeDocumentMoniker": "assignment1\\Program.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Program.cs",
+              "RelativeToolTip": "assignment1\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:16:32.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stud_CourseConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Configurations\\Stud_CourseConfigurations.cs",
+              "RelativeDocumentMoniker": "assignment1\\Data\\Configurations\\Stud_CourseConfigurations.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Configurations\\Stud_CourseConfigurations.cs",
+              "RelativeToolTip": "assignment1\\Data\\Configurations\\Stud_CourseConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T14:03:56.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Configurations\\StudentConfigurations.cs",
+              "RelativeDocumentMoniker": "assignment1\\Data\\Configurations\\StudentConfigurations.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Configurations\\StudentConfigurations.cs",
+              "RelativeToolTip": "assignment1\\Data\\Configurations\\StudentConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T14:01:27.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Configurations\\CourseConfigurations.cs",
+              "RelativeDocumentMoniker": "assignment1\\Data\\Configurations\\CourseConfigurations.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Configurations\\CourseConfigurations.cs",
+              "RelativeToolTip": "assignment1\\Data\\Configurations\\CourseConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T14:01:44.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "RelativeDocumentMoniker": "assignment1\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "RelativeToolTip": "assignment1\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T14:03:22.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InstructorConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Configurations\\InstructorConfigurations.cs",
+              "RelativeDocumentMoniker": "assignment1\\Data\\Configurations\\InstructorConfigurations.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Configurations\\InstructorConfigurations.cs",
+              "RelativeToolTip": "assignment1\\Data\\Configurations\\InstructorConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T14:02:25.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "assignment1\\Data\\Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Models\\Instructor.cs",
+              "RelativeToolTip": "assignment1\\Data\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:24:37.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Models\\Topic.cs",
+              "RelativeDocumentMoniker": "assignment1\\Data\\Models\\Topic.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Models\\Topic.cs",
+              "RelativeToolTip": "assignment1\\Data\\Models\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:24:02.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "assignment1\\Data\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Models\\Department.cs",
+              "RelativeToolTip": "assignment1\\Data\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:23:22.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "assignment1\\Data\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Mohamed\\OneDrive\\Documents\\EFCore\\assignment1\\assignment1\\Data\\Models\\Course.cs",
+              "RelativeToolTip": "assignment1\\Data\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:23:03.136Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
