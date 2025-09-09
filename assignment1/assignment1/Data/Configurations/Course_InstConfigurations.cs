@@ -13,7 +13,19 @@ namespace assignment1.Data.Configurations
     {
         void IEntityTypeConfiguration<Course_Inst>.Configure(EntityTypeBuilder<Course_Inst> builder)
         {
-            builder.HasKey(i => new { i.Course_Id, i.Inst_Id });
+            builder.HasKey(i => new { i.Crs_Id, i.Inst_Id });
+
+            //Teach Relationship
+            builder.HasOne(ci => ci.InsCourses)
+           .WithMany(c => c.Instructors)
+           .HasForeignKey(ci => ci.Crs_Id)
+           .OnDelete(DeleteBehavior.Cascade);
+
+      
+            builder.HasOne(ci => ci.Instructors)
+                   .WithMany(i =>i.InsCourses)
+                   .HasForeignKey(ci => ci.Inst_Id)
+                   .OnDelete(DeleteBehavior.Cascade);
         }
     }
 }

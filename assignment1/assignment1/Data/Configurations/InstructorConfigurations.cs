@@ -18,6 +18,22 @@ namespace assignment1.Data.Configurations
                 .HasColumnType("varchar(20)")
                 .IsRequired();
 
+
+            //Manage Relationship
+            builder.HasOne(i => i.DepartmentToManage)
+                   .WithOne(d => d.manager)
+                   .IsRequired(true)
+                   .HasForeignKey<Department>(d=>d.Ins_Id)
+                   .OnDelete(DeleteBehavior.Cascade);
+
+            //Teach Relationship
+          
+                 
+
+
+
+
+
         }
     }
 }

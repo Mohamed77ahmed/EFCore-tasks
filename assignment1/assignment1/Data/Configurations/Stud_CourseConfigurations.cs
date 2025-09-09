@@ -14,6 +14,15 @@ namespace assignment1.Data.Configurations
         public void Configure(EntityTypeBuilder<Stud_Course> builder)
         {
             builder.HasKey(s => new { s.Stud_Id, s.Course_Id });
+            builder.HasOne(sc => sc.Students)
+               .WithMany(s => s.Courses)
+               .HasForeignKey(sc => sc.Stud_Id)
+               .OnDelete(DeleteBehavior.Cascade);
+
+            builder.HasOne(sc => sc.Courses)
+                   .WithMany(c => c.Students)
+                   .HasForeignKey(sc => sc.Course_Id)
+                   .OnDelete(DeleteBehavior.Cascade);
         }
     }
 }

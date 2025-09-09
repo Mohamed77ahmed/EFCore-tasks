@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -17,6 +18,12 @@ namespace assignment1.Data.Models
         public decimal Salary { get; set; }
         public string? Address { get; set; }
         public decimal hourRate { get; set; }
+
+
+        public int Dept_Id { get; set; }
+        [InverseProperty(nameof(Department.manager))]
+        public Department DepartmentToManage { get; set; }
+        public List<Course_Inst> InsCourses { get; set; }
 
     }
 }

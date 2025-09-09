@@ -18,6 +18,9 @@ namespace assignment1.Data.Configurations
             builder.Property(t => t.Name)
                    .IsRequired().HasColumnType("varchar(20)");
 
+          
+           
+
 
         }
     }

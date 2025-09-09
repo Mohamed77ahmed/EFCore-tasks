@@ -14,6 +14,14 @@ namespace assignment1.Data.Models
         public string Name { get; set; }
         public DateTime HiringDate { get; set; }
 
+        public List<Student> Students { get; set; }
+
+        public int Ins_Id { get; set; }
+        public Instructor manager { get; set; }
+        public List<Instructor> ContainIns { get; set; }
+
+
+
 
 
     }

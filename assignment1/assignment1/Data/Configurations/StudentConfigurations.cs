@@ -17,6 +17,8 @@ namespace assignment1.Data.Configurations
             builder.Property(s => s.FName)
                    .IsRequired();
 
+           
+
         }
     }
 }
